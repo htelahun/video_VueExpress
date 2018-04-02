@@ -1,5 +1,5 @@
 {
-  "name": "videoapp-class",
+  "name": "grunt",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -11,9 +11,28 @@
     "debug": "~2.6.3",
     "express": "~4.15.2",
     "express-handlebars": "^3.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify-es": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.0",
     "jade": "~1.11.0",
     "morgan": "~1.8.1",
     "mysql": "^2.15.0",
     "serve-favicon": "~2.4.2"
-  }
+  },
+  "description": "",
+  "main": "Gruntfile.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/htelahun/video_VueExpress.git"
+  },
+  "keywords": [
+    "stuff"
+  ],
+  "author": "hana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htelahun/video_VueExpress/issues"
+  },
+  "homepage": "https://github.com/htelahun/video_VueExpress"
 }

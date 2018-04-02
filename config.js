@@ -8,7 +8,7 @@ pass : "root",
 
 port : 8889,
 
-database : "movies"
+database : "new_movies"
 
    };
 
